@@ -1,6 +1,9 @@
 # 🎯 GitHub Practice - Beginner Level
 
+<<<<<<< HEAD
 > **Repo luyện tập Git & GitHub cho sinh viên Việt Nam**
+=======
+
 
 ## 📖 Giới thiệu
 
@@ -90,4 +93,6 @@ Sau khi hoàn thành tất cả bài tập, bạn sẽ có:
 ---
 
 *Made with ❤️ for Vietnamese students*
+<<<<<<< HEAD
 *✨ Updated by nguyenbanha*
+
