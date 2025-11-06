@@ -19,7 +19,7 @@
 - 🎵 Nghe nhạc: JPop, Vocaloid
 - 📚 Đọc sách: Fantasy, Tác giả Fujino Omori  
 - ⚽ Thể thao: Cầu lông
-- 🎯 Khác: Chơi rhythm game
+- 🎯 Khác: Chơi rhythm game, đọc visual novel
 
 ## 💭 Quote yêu thích
 > 
